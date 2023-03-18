@@ -2,4 +2,4 @@
 
 > short for catGPT
 
-We are going to make small ChatGPT for out research project.
+We are going to make small ChatGPT for our research project.
